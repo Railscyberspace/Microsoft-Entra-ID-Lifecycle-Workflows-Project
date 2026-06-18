@@ -8,7 +8,7 @@ import json
 
 TENANT_ID = "30441bb7-6714-4898-affe-230b17c4704c"
 CLIENT_ID = "3c8a6773-e5af-4ac3-b636-2342f167a11e"
-CLIENT_SECRET = "Eyl8Q~XwBdtHHSMaoyhtomMhEPIz73FcJLMAxa6V"
+CLIENT_SECRET = "Put Scret here"
 
 AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 SCOPE = ["https://graph.microsoft.com/.default"]
