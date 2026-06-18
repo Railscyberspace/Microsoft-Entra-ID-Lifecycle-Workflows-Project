@@ -183,7 +183,7 @@ PIM Activation
 4. Privileged user governance
 5. Regulatory compliance
    
-##Metrics Collected
+## Metrics Collected
 1. Provisioning time reduction
 2. Manual tasks eliminated
 3. Audit events generated
