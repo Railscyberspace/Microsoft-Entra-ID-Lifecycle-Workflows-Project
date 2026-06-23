@@ -1,7 +1,8 @@
 
 # Microsoft Entra ID Lifecycle Workflows: End-to-End Identity Automation Project
 ### Project Overview
-This Project can be accessed here [Microsoft Entra ID P2 Hands-On Project](https://docs.google.com/document/d/1UQHv8_X6BHhuZllKe_kEg9BMfT3Cpbnzct0ULE086hE/edit?usp=sharing).
+## This Project can be accessed here [Microsoft Entra ID P2 Hands-On Project](https://docs.google.com/document/d/1UQHv8_X6BHhuZllKe_kEg9BMfT3Cpbnzct0ULE086hE/edit?usp=sharing).
+
 This project demonstrates the design, implementation, and governance of automated identity lifecycle management using Lifecycle Workflows in Microsoft Entra ID. The objective is to automate Joiner-Mover-Leaver (JML) processes, reduce manual administration, improve security posture, and ensure compliance. The project progresses from beginner to senior-level implementations, showcasing identity governance maturity in enterprise environments
 
 
