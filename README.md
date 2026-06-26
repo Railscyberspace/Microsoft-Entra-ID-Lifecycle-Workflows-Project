@@ -218,7 +218,7 @@ Reducing human error.
 ```
 
 # GitHub Repository Structure
-
+```
 │
 ├── README.md
 ├── LICENSE
