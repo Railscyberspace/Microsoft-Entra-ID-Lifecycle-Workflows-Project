@@ -219,34 +219,91 @@ Reducing human error.
 
 # GitHub Repository Structure
 
-Lifecycle-Workflows-Project/
-```
 │
 ├── README.md
-├── Phase1-Beginner/
-│   ├── Screenshots/
-│   ├── Workflow-Configuration.md
+├── LICENSE
+├── .gitignore
 │
-├── Phase2-Joiners/
-│   ├── Joiner-Workflow.md
+├── Phase01-Tenant-Setup/
+│   ├── Tenant-Overview
+│   ├── Bulk-User-Creation
+│   ├── Bulk-Operation-Lessons
+│   └── Screenshots/
 │
-├── Phase3-Movers/
-│   ├── Mover-Workflow.md
+├── Phase02-Identity-Management/
+│   ├── Security-Groups
+│   ├── Microsoft365-Groups
+│   ├── Dynamic-Groups
+│   ├── Group-Comparison
+│   └── Screenshots/
 │
-├── Phase4-Leavers/
-│   ├── Leaver-Workflow.md
+├── Phase03-Authentication/
+│   ├── MFA-Registration
+│   ├── Authentication-Methods
+│   ├── Sign-In-Logs
+│   └── Screenshots/
 │
-├── Phase5-Governance/
-│   ├── Contractors.md
-│   ├── Privileged-Users.md
+├── Phase04-Conditional-Access/
+│   ├── Require-MFA
+│   ├── Named-Locations
+│   ├── Location-Based-Policy
+│   ├── No-Persistent-Browser-Session
+│   ├── Policy-Testing
+│   └── Screenshots/
 │
-├── Phase6-Enterprise/
-│   ├── Architecture-Diagram.png
-│   ├── Lessons-Learned.md
+├── Phase05-Identity-Governance/
+│   ├── README.md
+│   ├── Joiners/
+│   │   └── Joiner-Workflow
+│   ├── Movers/
+│   │   └── Mover-Workflow
+│   ├── Leavers/
+│   │   └── Leaver-Workflow
+│   ├── Contractors
+│   ├── Privileged-Users
+│   └── Screenshots/
 │
-└── LICENSE
+├── Phase06-Device-Management/
+│   ├── macOS-Registration
+│   ├── Apple-MDM-Push-Certificate
+│   ├── Intune-Enrollment
+│   └── Screenshots/
+│
+├── Phase07-Hybrid-Identity/
+│   ├── Cloud-Sync
+│   ├── Provisioning-Agent
+│   ├── Synchronization
+│   ├── Architecture
+│   └── Screenshots/
+│
+├── Phase08-RBAC/
+│   ├── Built-in-Roles
+│   ├── Custom-Role-Reader
+│   ├── Custom-Role-Administrator
+│   ├── Role-Testing
+│   └── Screenshots/
+│
+├── Phase09-Enterprise-Architecture/
+│   ├── Zero-Trust-Architecture
+│   ├── Identity-Architecture
+│   ├── Lessons-Learned
+│   ├── Best-Practices
+│   ├── Future-Improvements
+│   └── Architecture-Diagram
+│
+├── docs/
+│   ├── Images/
+│   ├── Diagrams/
+│   ├── Workflow-Flowcharts/
+│   └── Assets/
+│
+└── Resources/
+    ├── CSV-Samples/
+    ├── Dynamic-Group-Rules
+    ├── Conditional-Access-Templates
+    ├── PowerShell/
+    └── Reference-Links
 ```
-
 
 # Conclusion
 This project demonstrates progressive expertise in Microsoft Entra ID Lifecycle Workflows, moving from basic onboarding automation to enterprise identity governance. By documenting each phase with screenshots, workflow configurations, audit logs, and lessons learned, the project showcases practical Identity Security engineering skills applicable to modern Zero Trust environments.
